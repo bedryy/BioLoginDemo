@@ -1,0 +1,6 @@
+framework module AmaniUI {
+  umbrella header "AmaniUI-umbrella.h"
+
+  export *
+  module * { export * }
+}

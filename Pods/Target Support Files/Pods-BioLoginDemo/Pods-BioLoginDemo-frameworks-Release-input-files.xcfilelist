@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-BioLoginDemo/Pods-BioLoginDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AmaniUI/AmaniUI.framework
+${BUILT_PRODUCTS_DIR}/lottie-ios/Lottie.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/AmaniSDK/AmaniSDK.framework/AmaniSDK
+${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL-Universal/OpenSSL.framework/OpenSSL

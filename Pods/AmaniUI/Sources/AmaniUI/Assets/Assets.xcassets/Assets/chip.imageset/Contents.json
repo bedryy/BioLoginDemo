@@ -1,0 +1,26 @@
+{
+  "images" : [
+    {
+      "filename" : "Sim Card Chip-595b40b85ba036ed117de2c6.svg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Sim Card Chip-595b40b85ba036ed117de2c6-1.svg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Sim Card Chip-595b40b85ba036ed117de2c6-2.svg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "template"
+  }
+}

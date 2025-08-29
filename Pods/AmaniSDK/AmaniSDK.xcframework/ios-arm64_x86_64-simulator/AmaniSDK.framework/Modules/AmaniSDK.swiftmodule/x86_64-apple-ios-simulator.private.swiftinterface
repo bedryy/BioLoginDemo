@@ -236,6 +236,8 @@ extension AmaniSDK.Amani {
   final public func IdCapture() -> AmaniSDK.IDCapture
   @available(iOS 13, *)
   final public func scanNFC() -> AmaniSDK.ScanNFC
+  final public func bioLogin() -> AmaniSDK.BioLogin
+  final public func bioLoginBuilder() -> AmaniSDK.BioLoginBuilder
   final public func document() -> AmaniSDK.Document
   final public func signature() -> AmaniSDK.Signature
   final public func customerInfo() -> AmaniSDK.CustomerInfo
@@ -1015,7 +1017,7 @@ public struct DocumentVersion : Swift.Codable {
 @_hasMissingDesignatedInitializers public class BioLogin {
   public static let sharedInstance: AmaniSDK.BioLogin
   public func setType(type: Swift.String)
-  public func setParams(server: Swift.String, token: Swift.String, customer_id: Swift.String, source: Swift.Int = 3, comparison_adapter: Swift.Int = 2, attempt_id: Swift.String, biologintype: AmaniSDK.BioLoginType = .autoSelfie)
+  public func setParams(server: Swift.String, token: Swift.String, customer_id: Swift.String, attempt_id: Swift.String, biologintype: AmaniSDK.BioLoginType = .autoSelfie)
   public func setPoseEstimationMessages(infoMessages: [AmaniSDK.poseState : Swift.String])
   public func setPoseEstimationColors(screenConfig: [AmaniSDK.poseConfigState : Swift.String])
   public func setPoseEstimationMainGuideImages(guideImages: [AmaniSDK.mainGuideImages : UIKit.UIImage])

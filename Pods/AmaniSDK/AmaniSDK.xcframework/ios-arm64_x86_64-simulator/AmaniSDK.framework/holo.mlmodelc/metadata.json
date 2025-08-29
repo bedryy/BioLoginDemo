@@ -91,9 +91,9 @@
     ],
     "generatedClassName" : "holo",
     "userDefinedMetadata" : {
-      "classes" : "hologram",
       "confidence_threshold" : "0.25",
-      "iou_threshold" : "0.45"
+      "iou_threshold" : "0.45",
+      "classes" : "hologram"
     },
     "neuralNetworkLayerTypeHistogram" : {
       "Concat" : 13,

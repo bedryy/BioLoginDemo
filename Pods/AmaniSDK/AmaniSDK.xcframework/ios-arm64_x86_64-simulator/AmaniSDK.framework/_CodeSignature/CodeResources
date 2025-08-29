@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		XqHEBGDqdZSedMG57RxxrLAP1Wg=
+		P1A/j+lsri5ZTcmCmWBHY2DJ4ug=
 		</data>
 		<key>AutoSelfieCaptureView.nib</key>
 		<data>
@@ -30,15 +30,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+bQYEBIx7SLU0XXCGIwUFeJ6jTY=
+		xpX5RCIof91x0R0JsEGkbCQyo2c=
 		</data>
 		<key>Modules/AmaniSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ObsjjAAtebBKR+mUYEGIJ764y3g=
+		ESNnEhcpzcrwvXoZTqI4QI/AUi4=
 		</data>
 		<key>Modules/AmaniSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		65DKTNduseJw97dOrl81ncXNIDM=
+		rgKm3gzqVQtFgsHc8uI/Id5tTeM=
 		</data>
 		<key>Modules/AmaniSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,19 +46,19 @@
 		</data>
 		<key>Modules/AmaniSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		65DKTNduseJw97dOrl81ncXNIDM=
+		rgKm3gzqVQtFgsHc8uI/Id5tTeM=
 		</data>
 		<key>Modules/AmaniSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		lwsC9U6kZ83+f3GefMkMCgmk3bk=
+		uCuILE4c/3fyE4MtODv2VgH2Rl8=
 		</data>
 		<key>Modules/AmaniSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ObsjjAAtebBKR+mUYEGIJ764y3g=
+		ESNnEhcpzcrwvXoZTqI4QI/AUi4=
 		</data>
 		<key>Modules/AmaniSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		lnvt22TQbccYdMoUVnv96ZqG5eY=
+		RQA1eG7nRhJJZojEtxNi7oadWD8=
 		</data>
 		<key>Modules/AmaniSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -66,11 +66,11 @@
 		</data>
 		<key>Modules/AmaniSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		lnvt22TQbccYdMoUVnv96ZqG5eY=
+		RQA1eG7nRhJJZojEtxNi7oadWD8=
 		</data>
 		<key>Modules/AmaniSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		CCDOuVtu81IET21PcJeHzxJUFZ4=
+		J04dBA6QMWnX+eEr4CVJ5R7qJBo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>holo.mlmodelc/metadata.json</key>
 		<data>
-		nfXGaYRfIJUR9uwKgiOT7P5Ygrs=
+		huawHKLTauRgJfdYT1uvzBUGfz4=
 		</data>
 		<key>holo.mlmodelc/model0/analytics/coremldata.bin</key>
 		<data>
@@ -151,7 +151,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JVe5B7vrY4LhGoas+I0f2cNOqDQ4gaJK32Dc0G34nLs=
+			YfjEJSkMkFYMkIrvIqAVdTZAgH0JhWTvtprKtgKEdV0=
 			</data>
 		</dict>
 		<key>AutoSelfieCaptureView.nib</key>
@@ -193,14 +193,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mFpEpmFUfvm0eErEFGY5lpSeiLqSmhKLQXMzVxQH/tU=
+			CbhSVDPXVIeEnPsj+5m9cM326lUjuY9/UM3K92HQWro=
 			</data>
 		</dict>
 		<key>Modules/AmaniSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dw+x8HJTDDBH2wLymPeFjtjo2uyPdZ4DClr0A4tT6L4=
+			RaAsYv5DuBxwj2kD0aWOhQksPRwHaHEVELHR1v+zCKk=
 			</data>
 		</dict>
 		<key>Modules/AmaniSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -214,28 +214,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dw+x8HJTDDBH2wLymPeFjtjo2uyPdZ4DClr0A4tT6L4=
+			RaAsYv5DuBxwj2kD0aWOhQksPRwHaHEVELHR1v+zCKk=
 			</data>
 		</dict>
 		<key>Modules/AmaniSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IVQ6RnLV5VeqzI2bqvylgHS/fmm3dBkFk/Yq8L48P9s=
+			SSA+fKV44r8sWCirhGHMPIYC33MCz31CInPAS4XEj+U=
 			</data>
 		</dict>
 		<key>Modules/AmaniSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mFpEpmFUfvm0eErEFGY5lpSeiLqSmhKLQXMzVxQH/tU=
+			CbhSVDPXVIeEnPsj+5m9cM326lUjuY9/UM3K92HQWro=
 			</data>
 		</dict>
 		<key>Modules/AmaniSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nBmKcM9xOxHqonZi4TpORgG6t1Uln7BUDvbhu37mbq8=
+			8IV/xXF764yF0AMpRCwEs3I3xaukwPzo7hkML0572M8=
 			</data>
 		</dict>
 		<key>Modules/AmaniSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -249,14 +249,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nBmKcM9xOxHqonZi4TpORgG6t1Uln7BUDvbhu37mbq8=
+			8IV/xXF764yF0AMpRCwEs3I3xaukwPzo7hkML0572M8=
 			</data>
 		</dict>
 		<key>Modules/AmaniSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nLqQDfFji0W6h/2/LQ/kvHbH1zDe90mHDfChanC9fkQ=
+			5wTPE6LwyxyQG1S+BZAaj/R0xjlm17KM3HYqA0slscA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -326,7 +326,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vJbxou7SaL6GMbqOmlS0Rz96+zEvPKaLCs3GsbP42ZI=
+			1WiSI4uRT8Z669EEx2rwJJcypuWwWOx3c1nkBSrjff8=
 			</data>
 		</dict>
 		<key>holo.mlmodelc/model0/analytics/coremldata.bin</key>
